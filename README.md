@@ -11,19 +11,22 @@
   
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=%23A8B9CC&logoSize=auto&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=%2300599C&logoSize=auto&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%233776AB&logoSize=auto&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=Node.js&logoColor=%235FA04E&logoSize=auto&labelColor=black)
 
 <br>
 
 - **DataBase**:
 
-    ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoSize=auto&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=MongoDB&logoColor=%2347A248&logoSize=auto&labelColor=black)
 
 <br>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianDeJesus&layout=compact" alt="Christian" />
+ - **Entornos de desarrollo**
+   ![Static Badge](https://img.shields.io/badge/Arduino%20ide-%2300878F?style=for-the-badge&logo=Arduino&logoColor=%2300878F&logoSize=auto&labelColor=black)
+
 
   </p>
