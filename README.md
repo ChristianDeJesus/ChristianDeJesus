@@ -15,8 +15,10 @@
     ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%233776AB&logoSize=auto&labelColor=black)
     ![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=Node.js&logoColor=%235FA04E&logoSize=auto&labelColor=black)
     ![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=css&logoColor=%23663399&logoSize=auto&labelColor=black)
-    ![Static Badge](https://img.shields.io/badge/html5-%23E34F26?style=for}-the-badge&logo=HTML5&logoColor=%23E34F26&logoSize=auto&labelColor=black)
-    ![Static Badge](https://img.shields.io/badge/DART-%230175C2?style=for-the-badge&logo=DART&logoColor=%230175C2&logoSize=auto&labelColor=black)
+  ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=%23E34F26&logoSize=auto&labelColor=black)
+  ![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javaScript&logoColor=%23F7DF1E&logoSize=auto&labelColor=black)
+
+  ![Static Badge](https://img.shields.io/badge/DART-%230175C2?style=for-the-badge&logo=DART&logoColor=%230175C2&logoSize=auto&labelColor=black)
 
 <br>
 
@@ -28,21 +30,13 @@
 
 <br>
 
- - **Entornos de desarrollo:**
-   
-   ![Static Badge](https://img.shields.io/badge/Arduino%20ide-%2300878F?style=for-the-badge&logo=Arduino&logoColor=%2300878F&logoSize=auto&labelColor=black)
-   ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=%232496ED&logoSize=auto&labelColor=black)
-   ![Static Badge](https://img.shields.io/badge/Blender-%23E87D0D?style=for-the-badge&logo=Blender&logoColor=%23E87D0D&logoSize=auto&labelColor=black)
-
-
-<br>
-
 - **Software and tools:**
   
+  ![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=Arduino&logoColor=%2300878F&logoSize=auto&labelColor=black)
+   ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=%232496ED&logoSize=auto&labelColor=black)
+   ![Static Badge](https://img.shields.io/badge/Blender-%23E87D0D?style=for-the-badge&logo=Blender&logoColor=%23E87D0D&logoSize=auto&labelColor=black)
   ![Static Badge](https://img.shields.io/badge/PostMan-%23FF6C37?style=for-the-badge&logo=PostMan&logoColor=%23FF6C37&logoSize=auto&labelColor=black)
-  ![Static Badge](https://img.shields.io/badge/QT%20DESIGNER-%2341CD52?style=for-the-badge&logo=QT&logoColor=%2341CD52&logoSize=auto&labelColor=black)
-  ![Static Badge](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=%2302569B&logoSize=auto&labelColor=black)
-  ![Static Badge](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=Linux&logoColor=%23FCC624&logoSize=auto&labelColor=black)
-
+  ![Static Badge](https://img.shields.io/badge/qt%20designer-%23006600?style=for-the-badge&logo=qt&logoColor=%2341CD52&logoSize=auto&labelColor=black)
+  ![Static Badge](https://img.shields.io/badge/linux-%2319C4BE?style=for-the-badge&logo=linux&logoColor=%2319C4BE&logoSize=auto&labelColor=black)
 
   </p>
