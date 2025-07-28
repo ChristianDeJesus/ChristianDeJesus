@@ -1,12 +1,17 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <h1 style="display: inline-block">Hi 👋, I'm Christian de Jesus</h1>
+    <h1 style="display: inline-block">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> I'm Christian de Jesus</h1>
   </ul>
 
 </div>
 
+<div id="user-content-toc">
+  <ul>
+    <h1 style="display: inline-block"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools</h1>
+  </ul>
 <p align="center">
+ 
   
 - **Languages**:
   
